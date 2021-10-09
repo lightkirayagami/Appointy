@@ -127,7 +127,7 @@
 
 
 <div align="center">
-<img src="./public/get_post.png" />
+<img src="./public/get_%20post.png" />
 </div>
 <hr />
 
